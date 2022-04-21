@@ -1,0 +1,16 @@
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.exe
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.deps.json
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.runtimeconfig.json
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.runtimeconfig.dev.json
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.dll
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\ref\HW1csharp.dll
+D:\csharpHW\HW1csharp\bin\Debug\net5.0\HW1csharp.pdb
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.csproj.AssemblyReference.cache
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.AssemblyInfoInputs.cache
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.AssemblyInfo.cs
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.csproj.CoreCompileInputs.cache
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.dll
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\ref\HW1csharp.dll
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.pdb
+D:\csharpHW\HW1csharp\obj\Debug\net5.0\HW1csharp.genruntimeconfig.cache
